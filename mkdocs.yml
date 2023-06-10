@@ -1,4 +1,7 @@
 site_name: Learn MAAS
+site_url: https://www.patashale.in/learn-maas/
+site_author: Patashale™
+site_description: Learn everything about MAAS here at Patashale™.
 repo_url: https://github.com/patashale/learn-maas
 repo_name: patashale/learn-maas
 theme:
